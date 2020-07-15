@@ -1,3 +1,4 @@
 domains=nrerictest2.com
 username=bob
 pwd=092348309234-ejewj #this is a fake pwd
+domains=nrerictest.com
