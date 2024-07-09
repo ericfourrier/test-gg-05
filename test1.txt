@@ -2,3 +2,7 @@ domains=nrerictest2.com
 username=bob
 pwd=092348309234-ejewj #this is a fake pwd
 domains=nrerictest.com
+
+
+aws_access_key_id = AKIAY6HM2ZTJMTBTBBFK
+aws_secret_access_key = SsN+Y8MfWJ1hhTRmIgVMLR9ljygO0SaIAhPkh9xU
